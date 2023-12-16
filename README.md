@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vjvkrm , React developer with keen interest in AI and backend technology  , 
-- 👀 I’m interested in to become backend MLOps engineer
-- 💞️ I’m looking to collaborate on fullstack or backend projects with AI use cases. 
+
+- 💞️ I’m looking to collaborate on fullstack or backend projects with AI use cases.
+- 
 - 📫  reach me @vjvkrm@icloud.com
 
 <!---

@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vjvkrm , React developer with keen interest in AI and backend technology  , 
-
-- 💞️ I’m looking to collaborate on fullstack or backend projects with AI use cases.
-- 
-- 📫  reach me @vjvkrm@icloud.com
+- 👋 Hi, I’m @vjvkrm , React developer with keen interest in AI and backend technology  ,
+- - 📫  reach me @vjvkrm@icloud.com
 
 <!---
 vjvkrm/vjvkrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

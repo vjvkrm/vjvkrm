@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vjvkrm , React developer with keen interest in AI and backend technology  ,
+- 👋 Hi, I’m @vjvkrm , Software developer with keen interest in AI and backend technology  ,
 - - 📫  reach me @vjvkrm@icloud.com
 
 <!---
